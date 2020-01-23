@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Mechanical Keyboard to Stenotype Conversion
 
-You can use the [editor on GitHub](https://github.com/geoffcampnell64/GK61-Mechanical-Keyboard-to-Stenotype-Conversion/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I've been interested in trying my hand(s) at stenography or a number of years, but the price point for keyboards like the EZ Plank, the Georgi, or the Gherkin was jsut our of what I was willing to pay. I have a tendancy to over-commit monitarily when starting a new hobby, and I didn't want to do that with this project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+But after digging a bit I realized that I could convert a mechanical keyboard into a half decent stenotype without sacraficing too much quality. 
 
-### Markdown
+### Keyboard Selection
+
+I ended up purchacing the [GK61 Mechanical Gaming Keyboard](https://www.amazon.ca/gp/product/B07QYHPCHD/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) from amazon.ca for $65.99 (CAD).
+
+I used the following selection criteria to narrow down my choices:
+- 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
