@@ -8,8 +8,7 @@ But after digging a bit I realized that I could convert a mechanical keyboard in
 
 I ended up purchacing the [GK61 Mechanical Gaming Keyboard](https://www.amazon.ca/gp/product/B07QYHPCHD/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) from amazon.ca for $65.99 (CAD).
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/geoffcampnell64/GK61-Mechanical-Keyboard-to-Stenotype-Conversion/blob/master/gk61-60-percent-keyboard-pcb-set.jpg "Photo from amazon listing")
 
 I used the following selection criteria to narrow down my choices:
 
